@@ -229,9 +229,70 @@
 // }
 
 //4-misol
-let i=10
+// let i=10
+// do {
+//     console.log(i);
+//     i--
+// } while (i>=1);
+
+//5-misol
+// let i = 1;
+// while (i <= 20) {
+//   if (i % 2 == 0) {
+//       console.log(i);
+//     }
+//     i++
+// }
+
+//6-misol
+// let i=1
+// do {
+//     if (i%2==0) {
+//        console.log(i);
+        
+//     }
+//     i++
+// } while (i<=20);
+
+//7-misol
+// let i = 1;
+// while (i <= 20) {
+//   if (i % 2 == 1) {
+//       console.log(i);
+//     }
+//     i++
+// }
+
+//8-misol
+// let i=1
+// do {
+//     if (i%2==1) {
+//        console.log(i);
+        
+//     }
+//     i++
+// } while (i<=20);
+
+//9-misol
+// let i = 1;
+// let res=0
+// while (i <= 100) {
+//   if (i) {
+//     res+=i
+//     }
+    
+//     i++
+// }
+//     console.log(res);
+
+//10-misol
+let i=+prompt('son')
 do {
-    console.log(i);
-    i--
-} while (i>=1);
+    if (i==0) {
+        console.log(true);
+    } else {
+        let l=
+    }
+} while (i==0);
+
 
