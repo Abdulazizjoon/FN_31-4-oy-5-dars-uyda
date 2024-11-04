@@ -249,7 +249,7 @@
 // do {
 //     if (i%2==0) {
 //        console.log(i);
-        
+
 //     }
 //     i++
 // } while (i<=20);
@@ -268,7 +268,7 @@
 // do {
 //     if (i%2==1) {
 //        console.log(i);
-        
+
 //     }
 //     i++
 // } while (i<=20);
@@ -280,19 +280,52 @@
 //   if (i) {
 //     res+=i
 //     }
-    
+
 //     i++
 // }
 //     console.log(res);
 
 //10-misol
-let i=+prompt('son')
-do {
-    if (i==0) {
-        console.log(true);
-    } else {
-        let l=
-    }
-} while (i==0);
+// let i;
+// let res = 0;
+// while (!(i == 0)) {
+//   i = +prompt("son kirting");
+//   res += i;
+// }
+// console.log(i);
+// console.log(res);
 
+//11-misol
+// let i=1
+// while (i<=50) {
+//     console.log(i);
 
+//     if (i==25) {
+//         break
+//     }
+//      i++;
+// }
+
+//12-misol
+// let i=1
+// do {
+//   console.log(i);
+//   if (i == 15) {
+//     continue;
+//   }
+//   i++;
+// } while (i <= 30);
+
+//13-misol
+// let i;
+// while (!(i > 1)) {
+//   i = +prompt("son kirting");
+// }
+// console.log(i);
+
+//14-misol
+// let i;
+// do {
+//     i=+prompt('son')
+// } while (!(i <= 100));
+// console.log(i);
